@@ -1,0 +1,18 @@
+# WinMashup GitHub Ignore List
+
+# Build Outputs (The "Junk")
+*.o
+*.bin
+*.obj
+
+# Compiler/Linker artifacts
+*.map
+*.out
+
+# Temporary Windows Files
+Thumbs.db
+.DS_Store
+
+# Notepad++ temporary/backup files
+*~
+*.bak
